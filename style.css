@@ -28,9 +28,9 @@ text-align: center;
 }
 #details {
   display: block;
-float: left;
 }
 div #details {
+  float: left;
 
   background-color: red;
   text-align: center;
