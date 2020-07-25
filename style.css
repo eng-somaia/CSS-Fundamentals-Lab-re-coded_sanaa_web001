@@ -27,6 +27,7 @@ p #featured-property {
 text-align: center;
 }
 #details div {
+  width: 25%;
   display: block;
   float: left;
   background-color: red;
