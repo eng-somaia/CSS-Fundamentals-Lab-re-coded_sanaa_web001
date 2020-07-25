@@ -31,8 +31,7 @@ text-align: center;
 float: left;
 }
 div #details {
-  float: left;
-  width: 25%;
+  
   background-color: red;
   text-align: center;
 }
