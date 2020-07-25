@@ -27,9 +27,10 @@ p #featured-property {
 text-align: center;
 }
 #details {
-  display: block;
+  
 }
 div #details {
+  display: block;
   float: left;
 
   background-color: red;
