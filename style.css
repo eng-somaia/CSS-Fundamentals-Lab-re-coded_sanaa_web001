@@ -26,7 +26,13 @@ p #featured-property {
   width: 800px;
 text-align: center;
 }
-div #details {
+#details{
   display: block;
+
+}
+div #details {
   float: left;
+  width: 25%;
+  background-color: red;
+  text-align: center;
 }
